@@ -22,9 +22,8 @@ function currentLine(deliLine){
     }
   }
   return result;
+  var katzDeliLine = [];
 }
-var katzDeliLine = [];
-
 function takeANumber(katzDeliLine, name){
 
 }
