@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function takeANumber(deliLine, name){
   deliLine.push(name);
   return `Welcome, ${name}. You are number ${deliLine.length} in line.`;
@@ -23,7 +22,7 @@ function currentLine(deliLine){
     }
   }
   return result;
-=======
+}
 var katzDeliLine = [];
 
 function takeANumber(katzDeliLine, name){
@@ -35,5 +34,4 @@ function nowServing(katzDeliLine){
 }
 function currentLine(katzDeliLine){
   "The line is currently empty."
->>>>>>> 95340801e7a9b8b0b0c0e13a30fa6e828a1a5ec7
 }
